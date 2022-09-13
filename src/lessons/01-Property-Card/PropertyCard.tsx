@@ -1,3 +1,41 @@
+/*
+ * 📕 01 - PROPERTY CARD
+ *
+ *
+ * 👉 STEP 1
+ *
+ * Add an image with height of 300px borderRadius medium
+ *
+ * 👉 STEP 2
+ *
+ * Add rating with size small and gap of xxxs
+ *
+ * 👉 STEP 3
+ *
+ * Add an Icon for bed
+ *
+ * 👉 STEP 4
+ *
+ * Add an h2 heading, make sure it can be truncated
+ *
+ * 👉 STEP 5
+ *
+ * Add a rate text with font weight bold
+ *
+ * 👉 STEP 6
+ *
+ * Add a '/night' text with a neutrol color
+ *
+ * 🔹 HINT
+ *
+ * The completed code is in the same directory!
+ *
+ * ✨ BONUS 1
+ *
+ *  Add a few badges to the card, for example "Good for pets" or "No deposit"
+ *
+ */
+
 import {
   Card,
   Image,
